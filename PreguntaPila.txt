@@ -1,0 +1,9 @@
+(seed= 961264695)
+Sobre una pila se realizan entremezcladas operaciones de apilar y desapilar. Los valores que se apilan son las letras de la A a la J, en ese orden. Al desapilar se imprime el valor.
+¿Cuál de las siguientes secuencias podra darse mediante este proceso?{
+~%33% D C J I H G F E B A 
+~%-100%F C G D B H E J A I 
+~%33% F I H J G E D C B A 
+~%33% I J H G F E D C B A 
+}
+
